@@ -1,0 +1,28 @@
+
+body{
+    background-color: bisque;
+}
+
+form{
+margin-inline: auto;
+}
+
+.addurl{
+margin-top: 30px;
+    width: 150px;
+    margin-left: 45%;
+
+}
+
+
+table{
+    margin-top: 20px;
+    margin-inline: auto;
+    background-color: white;
+}
+.visit{
+    background-color:green ;
+}
+.del{
+    background-color: red;
+}
